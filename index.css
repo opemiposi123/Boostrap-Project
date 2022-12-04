@@ -1,0 +1,53 @@
+.navbar-brand {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+    background-color: rgb(252, 238, 158);
+}
+
+.card-title {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+
+body {                                                      
+    background-color: cornsilk;
+}
+
+.card-text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.first {
+    color: white;
+    text-align: center;
+    background-image: url("background image.jpg");
+}
+
+.Gallery {
+    text-align: center;
+    color: goldenrod;
+}
+
+.services {
+    text-align: center;
+    color: goldenrod;
+}
+
+.gallery_text {
+    text-align: center;
+}
+
+.services_text {
+    text-align: center;
+}
+
+.card {
+    color: goldenrod;
+}
+
+.login {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
